@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.card {
+    width:80%;
+}
+
+.email {
+    display: grid;
+    width: 50%;
+    height:80px;
+}
+
+.btn {
+    margin-top: 4%;
+}
+
+.messages {
+    color:red;
+    font-size:30px;
+}
+
+.valid {
+    background-color:green;
+    border: 2px solid black;
+    width:50%;
+    text-align: center;
+}
